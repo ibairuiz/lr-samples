@@ -1,0 +1,4 @@
+Bundle-Name: dynamic-query-sample
+Bundle-SymbolicName: dynamic.query.sample
+Bundle-Version: 1.0.0
+Export-Package: dynamic.query.sample.constants

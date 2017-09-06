@@ -1,0 +1,9 @@
+Bundle-Name: workflow-framework-sample-api
+Bundle-SymbolicName: com.liferay.samples.workflow.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.liferay.samples.workflow.exception,\
+	com.liferay.samples.workflow.model,\
+	com.liferay.samples.workflow.service,\
+	com.liferay.samples.workflow.service.persistence
+-includeresource: META-INF/service.xml=../workflow-framework-sample-service/service.xml
